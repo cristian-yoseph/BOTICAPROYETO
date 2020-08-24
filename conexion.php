@@ -1,5 +1,5 @@
 <?php
 
-$conexion=mysqli_connect('localhost','root','','boticaBD') or die ('Error al conectar BD');
+$conexion=mysqli_connect('localhost','root','','sistema_botica') or die ('Error al conectar BD');
 	
   ?>
